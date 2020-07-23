@@ -1,0 +1,25 @@
+{
+  "name": "hcarterm54",
+  "version": "1.0.0",
+  "description": "GitHub profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcarterm54/hcarterm54.git"
+  },
+  "keywords": [
+    "profile"
+  ],
+  "author": "Carter Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcarterm54/hcarterm54/issues"
+  },
+  "homepage": "https://github.com/hcarterm54/hcarterm54#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
